@@ -98,6 +98,11 @@ streamlit run submission_verification.py
 - **dfpipeline.py**: Implements deepfake detection for validating video reports.
 - **submission_verification.py**: Provides the authority dashboard for reviewing and updating reports.
 
+
+##Demo
+
+https://youtu.be/181hWkRZpIU?si=Eh0HXiXYrxa7l7ze&t=58
+
 ## Contributing
 
 We welcome contributions! Here’s how you can help:
